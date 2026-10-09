@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://jbalaguersalas.github.io">
-    <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=26&duration=2800&pause=1600&color=4DA3FF&center=true&vCenter=true&width=600&height=50&letterSpacing=1px&lines=Webs+claras+y+r%C3%A1pidas;%3C%2F%3E+HTML+%C2%B7+CSS+%C2%B7+JavaScript" alt="Texto animado"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=26&duration=2800&pause=1600&color=4DA3FF&center=true&vCenter=true&width=600&height=50&letterSpacing=1px&lines=%3C%2F%3E+HTML+%C2%B7+CSS+%C2%B7+JavaScript" alt="Texto animado"/>
   </a>
 </p>
 
