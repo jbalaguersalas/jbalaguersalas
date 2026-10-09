@@ -2,13 +2,12 @@
 
 <p align="center">
   <a href="https://jbalaguersalas.github.io">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=4DA3FF&center=true&vCenter=true&width=520&lines=Webs+claras+y+r%C3%A1pidas;HTML+%C2%B7+CSS+%C2%B7+JavaScript;Cuidando+cada+detalle" alt="Texto animado"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=26&duration=2800&pause=1600&color=4DA3FF&center=true&vCenter=true&width=600&height=50&letterSpacing=1px&lines=Webs+claras+y+r%C3%A1pidas;%3C%2F%3E+HTML+%C2%B7+CSS+%C2%B7+JavaScript" alt="Texto animado"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://jbalaguersalas.github.io"><img src="https://img.shields.io/badge/Mi_web-4da3ff?style=for-the-badge&logo=googlechrome&logoColor=000000" alt="Mi web"/></a>
-  <a href="https://www.linkedin.com/in/TU-USUARIO-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=4da3ff" alt="LinkedIn"/></a>
   <a href="mailto:josebala115@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=4da3ff" alt="Email"/></a>
 </p>
 
