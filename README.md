@@ -11,6 +11,11 @@
   <a href="mailto:josebala115@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=4da3ff" alt="Email"/></a>
 </p>
 
+<p align="center">
+  Desarrollador Full Stack junior. Estoy terminando el bootcamp de The Bridge.<br/>
+  Cuando me atasco, me apoyo en la IA para entender el error y seguir.
+</p>
+
 <br/>
 
 <h3 align="center">🛠️ Herramientas</h3>
