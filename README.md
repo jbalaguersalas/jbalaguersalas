@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://jbalaguersalas.github.io"><img src="https://img.shields.io/badge/Mi_web-4da3ff?style=for-the-badge&logo=googlechrome&logoColor=000000" alt="Mi web"/></a>
-  <a href="mailto:josebala115@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=4da3ff" alt="Email"/></a>
+  <a href="mailto:paysecuredev@protonmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=protonmail&logoColor=4da3ff" alt="Email"/></a>
 </p>
 
 <p align="center">
