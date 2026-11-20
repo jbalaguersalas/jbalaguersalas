@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://jbalaguersalas.github.io">
-    <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=26&duration=2800&pause=1600&color=4DA3FF&center=true&vCenter=true&width=600&height=50&letterSpacing=1px&lines=HTML+%C2%B7+CSS+%C2%B7+JavaScript;TypeScript+%C2%B7+Extensiones+de+navegador;NestJS+%C2%B7+PostgreSQL+%C2%B7+Docker" alt="Texto animado"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=26&duration=2800&pause=1600&color=4DA3FF&center=true&vCenter=true&width=600&height=50&letterSpacing=1px&lines=HTML+%C2%B7+CSS+%C2%B7+JavaScript;TypeScript+%C2%B7+Junior+Full+Stack;NestJS+%C2%B7+PostgreSQL+%C2%B7+Docker" alt="Texto animado"/>
   </a>
 </p>
 
@@ -24,7 +24,7 @@
 <h3 align="center">📌 Proyectos destacados</h3>
 
 <p align="center">
-  <a href="https://github.com/jbalaguersalas/PaySecure"><b>PaySecure</b></a> · Extensión de navegador que bloquea rastreadores sin romper los pagos<br/>
+  <a href="https://github.com/jbalaguersalas/JS-Asynchronous-code"><b>Peticiones a APIs</b></a> · fetch y async/await con la Dog API y la API de GitHub<br/>
   <a href="https://github.com/jbalaguersalas/Bikram-typescript"><b>TypeScript de cero a genéricos</b></a> · 20 ejercicios, de tipos básicos a clases y genéricos<br/>
   <a href="https://github.com/jbalaguersalas/DOM-varita-magica"><b>Varita mágica</b></a> · El ratón cambia imágenes y colores de una página con JavaScript<br/>
   <a href="https://github.com/jbalaguersalas/-Pr-ctica-Docker-Web-Minimalista"><b>Portfolio en Docker</b></a> · Un diseño de Figma en HTML y CSS, servido con nginx<br/>
