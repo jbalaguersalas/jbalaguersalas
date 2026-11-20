@@ -12,8 +12,8 @@
 </p>
 
 <p align="center">
-  Desarrollador Full Stack junior. Estoy terminando el bootcamp de The Bridge.<br/>
-  Cuando me atasco, me apoyo en la IA para entender el error y seguir.
+  Estoy empezando en el desarrollo web con el bootcamp Full Stack de The Bridge.<br/>
+  Uso mucho la IA para aprender: me explica los errores y me ayuda cuando me atasco.
 </p>
 
 <br/>
@@ -26,7 +26,7 @@
 
 <br/>
 
-<h3 align="center">📌 Proyectos destacados</h3>
+<h3 align="center">📌 Prácticas del bootcamp</h3>
 
 <p align="center">
   <a href="https://github.com/jbalaguersalas/JS-Asynchronous-code"><b>Peticiones a APIs</b></a> · fetch y async/await con la Dog API y la API de GitHub<br/>
