@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:4da3ff&height=200&section=header&text=Shema&fontSize=70&fontColor=d6d8de&animation=fadeIn&fontAlignY=38&desc=Desarrollo%20web&descAlignY=60&descSize=20" alt="Shema"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:4da3ff&height=200&section=header&text=Shema&fontSize=70&fontColor=d6d8de&animation=fadeIn&fontAlignY=38&desc=Full%20stack%20%C2%B7%20The%20Bridge&descAlignY=60&descSize=20" alt="Shema"/>
 
 <p align="center">
   <a href="https://jbalaguersalas.github.io">
-    <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=26&duration=2800&pause=1600&color=4DA3FF&center=true&vCenter=true&width=600&height=50&letterSpacing=1px&lines=%3C%2F%3E+HTML+%C2%B7+CSS+%C2%B7+JavaScript" alt="Texto animado"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=26&duration=2800&pause=1600&color=4DA3FF&center=true&vCenter=true&width=600&height=50&letterSpacing=1px&lines=%3C%2F%3E+NestJS+%C2%B7+Express+%C2%B7+TypeScript;PostgreSQL+%C2%B7+MongoDB+%C2%B7+Docker;HTML+%C2%B7+CSS+%C2%B7+JavaScript" alt="Texto animado"/>
   </a>
 </p>
 
@@ -16,7 +16,17 @@
 <h3 align="center">🛠️ Herramientas</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&perline=6" alt="Herramientas"/>
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,express,postgres,mongodb,supabase,docker,githubactions,html,css,git,github,vscode&perline=8" alt="Herramientas"/>
+</p>
+
+<br/>
+
+<h3 align="center">📌 Proyectos destacados</h3>
+
+<p align="center">
+  <a href="https://github.com/jbalaguersalas/api-gimnasio-fitval"><b>API gimnasio FitVal</b></a> · NestJS, PostgreSQL y login con JWT<br/>
+  <a href="https://github.com/jbalaguersalas/api-rastro"><b>API Rastro</b></a> · Express, TypeScript y MongoDB<br/>
+  <a href="https://github.com/jbalaguersalas/nestjs-postgresql-supabase-render"><b>API de libros y pedidos</b></a> · NestJS, Supabase y Render
 </p>
 
 <br/>
