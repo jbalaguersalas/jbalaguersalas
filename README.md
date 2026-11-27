@@ -34,7 +34,3 @@ Estoy empezando en el desarrollo web con el bootcamp Full Stack de The Bridge. U
 **Octubre.** JavaScript, DOM y TypeScript, ejercicios con tests de Jasmine y una web metida en Docker.
 **Noviembre.** SQL y MongoDB, después Express y NestJS, login con JWT y lint con GitHub Actions.
 **Ahora.** Sigo con el bootcamp y practicando por mi cuenta.
-
-<br>
-
-<a href="mailto:paysecuredev@protonmail.com"><img src="contacto.svg" width="100%" alt="¿Hablamos? Escríbeme a paysecuredev@protonmail.com"></a>
