@@ -1,46 +1,40 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:4da3ff&height=200&section=header&text=Shema&fontSize=70&fontColor=d6d8de&animation=fadeIn&fontAlignY=38&desc=Estudiante%20%C2%B7%20The%20Bridge&descAlignY=60&descSize=20" alt="Shema"/>
+<a href="https://jbalaguersalas.github.io"><img src="banner.svg" width="100%" alt="Shema, junior estudiante, The Bridge 2026"></a>
 
-<p align="center">
-  <a href="https://jbalaguersalas.github.io">
-    <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=26&duration=2800&pause=1600&color=4DA3FF&center=true&vCenter=true&width=600&height=50&letterSpacing=1px&lines=Estudiante+de+desarrollo+web;HTML+%C2%B7+CSS+%C2%B7+JavaScript;Bootcamp+Full+Stack+%C2%B7+The+Bridge" alt="Texto animado"/>
-  </a>
-</p>
+Estoy empezando en el desarrollo web con el bootcamp Full Stack de The Bridge. Uso mucho la IA para aprender: me explica los errores y me ayuda cuando me atasco.
 
-<p align="center">
-  <a href="https://jbalaguersalas.github.io"><img src="https://img.shields.io/badge/Mi_web-4da3ff?style=for-the-badge&logo=googlechrome&logoColor=000000" alt="Mi web"/></a>
-  <a href="mailto:paysecuredev@protonmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=protonmail&logoColor=4da3ff" alt="Email"/></a>
-</p>
+**[Mi web](https://jbalaguersalas.github.io)** &nbsp;&nbsp;&nbsp; **[Escríbeme](mailto:paysecuredev@protonmail.com)**
 
-<p align="center">
-  Estoy empezando en el desarrollo web con el bootcamp Full Stack de The Bridge.<br/>
-  Uso mucho la IA para aprender: me explica los errores y me ayuda cuando me atasco.
-</p>
+<br>
 
-<br/>
+## Prácticas del bootcamp
 
-<h3 align="center">🛠️ Herramientas</h3>
+| Práctica | Qué hice | Con qué |
+| :-- | :-- | :-- |
+| [Maqueta de Figma en Docker](https://github.com/jbalaguersalas/-Pr-ctica-Docker-Web-Minimalista) | Pasé a HTML y CSS un diseño de Figma, empezando por el móvil, y lo metí en un contenedor con nginx | HTML, CSS, Docker |
+| [Ejercicios de TypeScript](https://github.com/jbalaguersalas/Bikram-typescript) | Veinte ejercicios de tipos, interfaces, clases y genéricos | TypeScript |
+| [API gimnasio FitVal](https://github.com/jbalaguersalas/api-gimnasio-fitval) | API de un gimnasio: planes, horario de clases y login con JWT | NestJS, PostgreSQL, JWT |
+| [Varita mágica](https://github.com/jbalaguersalas/DOM-varita-magica) | Al pasar el ratón o hacer click, cambian las imágenes y los colores de la página | JavaScript, DOM |
+| [API Rastro](https://github.com/jbalaguersalas/api-rastro) | API de compraventa de segunda mano, cada parte en su rama con pull requests | Express, TypeScript, MongoDB |
+| [Peticiones a APIs](https://github.com/jbalaguersalas/JS-Asynchronous-code) | Ejercicios de `fetch` y async/await con la Dog API y la API de GitHub | JavaScript |
+| [Currículum web](https://github.com/jbalaguersalas/web-cv) | Completé en HTML y CSS una plantilla de Figma que dejó empezada el profesor | HTML, CSS |
+| [Libros y pedidos](https://github.com/jbalaguersalas/nestjs-postgresql-supabase-render) | Partí del código de clase y le añadí los pedidos y los ejercicios del tema | NestJS, PostgreSQL |
+| [Modelo SQL del gimnasio](https://github.com/jbalaguersalas/Proyecto-SQL-Gimnasio) | Las tablas de un gimnasio y consultas con JOIN | SQL, PostgreSQL |
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,express,postgres,mongodb,supabase,docker,githubactions,html,css,git,github,vscode&perline=8" alt="Herramientas"/>
-</p>
+<br>
 
-<br/>
+## Lo que he tocado
 
-<h3 align="center">📌 Prácticas del bootcamp</h3>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,nestjs,express,postgres,mongodb,supabase,docker,githubactions,git,github,postman&perline=8&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, Node.js, NestJS, Express, PostgreSQL, MongoDB, Supabase, Docker, GitHub Actions, Git, GitHub y Postman">
 
-<p align="center">
-  <a href="https://github.com/jbalaguersalas/JS-Asynchronous-code"><b>Peticiones a APIs</b></a> · Ejercicios de fetch y async/await con la Dog API y la API de GitHub<br/>
-  <a href="https://github.com/jbalaguersalas/Bikram-typescript"><b>Ejercicios de TypeScript</b></a> · 20 ejercicios de clase sobre tipos, interfaces y clases<br/>
-  <a href="https://github.com/jbalaguersalas/DOM-varita-magica"><b>Varita mágica</b></a> · El ratón cambia imágenes y colores de una página con JavaScript<br/>
-  <a href="https://github.com/jbalaguersalas/-Pr-ctica-Docker-Web-Minimalista"><b>Maqueta de Figma en Docker</b></a> · Un diseño de Figma pasado a HTML y CSS y servido con nginx<br/>
-  <a href="https://github.com/jbalaguersalas/web-cv"><b>Currículum web</b></a> · Completar en HTML y CSS una plantilla de Figma que dejó empezada el profesor<br/>
-  <a href="https://github.com/jbalaguersalas/api-gimnasio-fitval"><b>API gimnasio FitVal</b></a> · Práctica de API con NestJS y login con JWT
-</p>
+<br>
 
-<p align="center">
-  <a href="https://jbalaguersalas.github.io"><b>Todas mis prácticas en mi web →</b></a>
-</p>
+## Mis tres meses en The Bridge
 
-<br/>
+**Septiembre.** Git, HTML y CSS: ramas, merges, mis primeros conflictos y un currículum sacado de Figma.
+**Octubre.** JavaScript, DOM y TypeScript, ejercicios con tests de Jasmine y una web metida en Docker.
+**Noviembre.** SQL y MongoDB, después Express y NestJS, login con JWT y lint con GitHub Actions.
+**Ahora.** Sigo con el bootcamp y practicando por mi cuenta.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4da3ff,100:000000&height=110&section=footer" alt=""/>
+<br>
+
+<a href="mailto:paysecuredev@protonmail.com"><img src="contacto.svg" width="100%" alt="¿Hablamos? Escríbeme a paysecuredev@protonmail.com"></a>
