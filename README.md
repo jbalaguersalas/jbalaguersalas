@@ -30,7 +30,7 @@
 
 | Práctica | Qué hice | Con qué |
 | :-- | :-- | :-- |
-| [Maqueta de Figma en Docker](https://github.com/jbalaguersalas/-Pr-ctica-Docker-Web-Minimalista) | Pasé a HTML y CSS un diseño de Figma, empezando por el móvil, y lo metí en un contenedor con nginx | HTML, CSS, Docker |
+| [Maqueta de Figma en Docker](https://github.com/jbalaguersalas/docker-web-minimalista) | Pasé a HTML y CSS un diseño de Figma, empezando por el móvil, y lo metí en un contenedor con nginx | HTML, CSS, Docker |
 | [Ejercicios de TypeScript](https://github.com/jbalaguersalas/Bikram-typescript) | Veinte ejercicios de tipos, interfaces, clases y genéricos | TypeScript |
 | [Varita mágica](https://github.com/jbalaguersalas/DOM-varita-magica) | Al pasar el ratón o hacer click, cambian las imágenes y los colores de la página | JavaScript, DOM |
 | [Peticiones a APIs](https://github.com/jbalaguersalas/JS-Asynchronous-code) | Ejercicios de `fetch` y async/await con la Dog API y la API de GitHub | JavaScript |
