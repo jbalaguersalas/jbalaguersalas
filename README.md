@@ -1,8 +1,14 @@
 <a href="https://jbalaguersalas.github.io"><img src="banner.svg" width="100%" alt="Shema, junior estudiante, The Bridge 2026"></a>
 
-Estoy empezando en el desarrollo web con el bootcamp Full Stack de The Bridge. Uso mucho la IA para aprender: me explica los errores y me ayuda cuando me atasco.
+<p align="center">
+  Estoy empezando en el desarrollo web con el bootcamp Full Stack de The Bridge.<br>
+  Uso mucho la IA para aprender: me explica los errores y me ayuda cuando me atasco.
+</p>
 
-**[Mi web](https://jbalaguersalas.github.io)** &nbsp;&nbsp;&nbsp; **[Escríbeme](mailto:paysecuredev@protonmail.com)**
+<p align="center">
+  <a href="https://jbalaguersalas.github.io"><img src="tarjeta-web.svg" width="400" alt="Mi web: jbalaguersalas.github.io"></a>
+  <a href="mailto:paysecuredev@protonmail.com"><img src="tarjeta-correo.svg" width="400" alt="Escríbeme: paysecuredev@protonmail.com"></a>
+</p>
 
 <br>
 
