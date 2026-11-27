@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://jbalaguersalas.github.io"><img src="tarjeta-web.svg" width="400" alt="Mi web: jbalaguersalas.github.io"></a>
-  <a href="mailto:paysecuredev@protonmail.com"><img src="tarjeta-correo.svg" width="400" alt="Escríbeme: paysecuredev@protonmail.com"></a>
+  <a href="https://jbalaguersalas.github.io"><img src="tarjeta-web.svg" alt="Mi web: jbalaguersalas.github.io"></a>
+  <a href="mailto:paysecuredev@protonmail.com"><img src="tarjeta-correo.svg" alt="Escríbeme: paysecuredev@protonmail.com"></a>
 </p>
 
 <br>
