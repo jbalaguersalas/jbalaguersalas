@@ -39,4 +39,4 @@
 **Septiembre.** Git, HTML y CSS: ramas, merges, mis primeros conflictos y un currículum sacado de Figma.
 **Octubre.** JavaScript, DOM y TypeScript, ejercicios con tests de Jasmine y una web metida en Docker.
 **Noviembre.** SQL y MongoDB, después Express y NestJS, login con JWT y lint con GitHub Actions.
-**Ahora.** Sigo con el bootcamp y practicando por mi cuenta.
+**Ahora.** Sigo con el bootcamp y practicando fuera de clase.
